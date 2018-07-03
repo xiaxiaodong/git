@@ -6,4 +6,4 @@
  当前用户的配置 ~/.gitconfig
  快速查看配置 git config --list 
  修改 git config --global key value
-
+## 修改配置
